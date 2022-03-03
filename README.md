@@ -1,4 +1,4 @@
-Tiny Game
+Tiny Game v2 
 =========
 
 [![Coverage Status](https://coveralls.io/repos/github/STRd6/tiny-game/badge.svg?branch=master)](https://coveralls.io/github/STRd6/tiny-game?branch=master)
